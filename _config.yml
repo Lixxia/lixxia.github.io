@@ -8,17 +8,21 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         About
-    icon:         <i class="fa fa-user"></i>
+    icon:         fa-user
     url:          /about
   - name:         Blog
-    icon:         <i class="fa fa-home"></i>
+    icon:         fa-home
     url:          /
   - name:         Email
-    icon:         <i class="fa fa-envelope"></i>
+    icon:         fa-envelope
     url:          mailto:laura.c.barber@gmail.com
     external:     true
+  - name:         LinkedIn
+    icon:         fa-linkedin
+    url:          http://linkedin.com/in/lixxia
+    external:     true
   - name:         GitHub
-    icon:         <i class="fa fa-github-alt"></i>
+    icon:         fa-github-alt
     url:          http://github.com/Lixxia
     external:     true
 highlighter:      pygments

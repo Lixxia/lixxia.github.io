@@ -19,6 +19,13 @@ body {
 img {
   border: none; }
 
+.circleimg {
+  border-radius: 100% !important;
+  border: 1px solid #343434 !important;
+  width: 140px;
+  height: 140px;
+}
+
 #go-back-home {
   margin: 40px 0 0; }
   #go-back-home:hover {
@@ -252,7 +259,7 @@ section.post {
     text-transform: uppercase;
     text-align: center;
     line-height: 1.5em;
-    margin-bottom: 60px; }
+    margin-bottom: 30px; }
     section.post h1 .date {
       color: #d0d0d0;
       font-size: 10px; }
