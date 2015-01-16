@@ -4,6 +4,7 @@ title: About
 ---
 <center>
 <img src="/images/me.png" class="circleimg">
+I am currently a Senior at the College of Charleston studying for a Bachelor of Science in Computer Science. I am focused on improving my own skills as a programmer while helping expand Charleston's technical community through volunteer work in events such as BarcampCHS and Pecha Kucha.
 
 Tweet [@lixxias](http://twitter.com/lixxias).
 
