@@ -1,5 +1,80 @@
+.licon {;
+  margin: -10px 0px -10px 0px;
+  padding: 0px;
+}
+
+div.ltext {
+  z-index:0;
+  position: relative;
+  margin-top: 0px;
+  top: 5px;  
+  padding: 0px;
+  color: #000;
+  font-family:'PT Sans Narrow', sans-serif;
+  font-size:16;
+  font-weight: 100;
+  text-align:center;
+  text-transform: uppercase;
+}
+
+div.ltext:hover {
+  color: #000;
+  margin-bottom:-15px;
+  padding-bottom:15px;
+}
+
+.float-top {
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  color:transparent !important;
+}
+.float-top:hover, .float-top:focus, .float-top:active {
+  -webkit-transform: translateY(-15px);
+  transform: translateY(-15px);
+  color:#000 !important;
+}
+.float-top:hover:before, .float-top:focus:before, .float-top:active:before {
+  -webkit-transform: translateY(15px);
+  transform: translateY(15px);
+}
+
 h1, h2, h3, h4, h5, strong, b {
-  font-weight: 600; }
+  font-weight: 600; 
+  font-family: 'PT Sans Narrow', sans-serif !important;
+}
+
+.blog-title {
+  margin: 0px;
+  padding: 0px;
+  font-size: 50px;
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: -2px;
+  outline: 0px none;
+  line-height: 50px;
+  text-transform: uppercase;
+  color: #333;
+}
+
+.blog-subtitle {
+  margin-top: -1%;
+  padding: 0px;
+  font-size: 26px;
+  text-align: center;
+  font-weight: 600;
+  outline: 0px none;
+  line-height: 50px;
+  color: #333;
+}
 
 html, body {
   height: 100%; }
@@ -28,8 +103,9 @@ img {
 
 #go-back-home {
   margin: 40px 0 0; }
-  #go-back-home:hover {
-    background-image: none; }
+
+#go-back-home:hover {
+  background-image: none; }
 
 .capitalize {
   text-transform: capitalize; }
@@ -167,11 +243,12 @@ a, .as-link {
   -o-transition: color 0.3s;
   transition: color 0.3s; }
   a.main, a:hover, .as-link.main, .as-link:hover {
-    color: #000000;
+    color: #737373;
     background-repeat: repeat-x;
     background-position: left bottom; }
   a:hover {
-    color: #90A959;}
+    color: #000 !important;
+  }
   a.big-button, .as-link.big-button {
     min-width: 30%;
     border-radius: 3px;

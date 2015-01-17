@@ -1,5 +1,10 @@
-<div class="block">
+<!-- slide down text -->
+ <div class="block">
   {% for link in site.links %}
-    <a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}"><i class="fa {{link.icon}}"></i> {{ link.name }}</a>
+    <a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}">
+    	<div class="float-top ltext">{{ link.name }}</div>
+    	<i class="licon fa {{link.icon}}"></i>
+    </a>
   {% endfor %}
 </div>
+

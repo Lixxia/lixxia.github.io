@@ -1,4 +1,5 @@
-title:            SOFTWARE ENGINEERING
+title:            Laura Barber
+subtitle:         Software Engineering Blog
 description:      A blog for CSCI 462 assignments.
 url:              # Site url.
 signoff: Laura Barber          # Your name.
@@ -7,12 +8,12 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         About
-    icon:         fa-user
-    url:          /about
   - name:         Blog
     icon:         fa-home
     url:          /
+  - name:         About
+    icon:         fa-user
+    url:          /about
   - name:         Email
     icon:         fa-envelope
     url:          mailto:laura.c.barber@gmail.com
