@@ -18,6 +18,10 @@ links:
     icon:         fa-envelope
     url:          mailto:laura.c.barber@gmail.com
     external:     true
+  - name:         Twitter
+    icon:         fa-twitter
+    url:          http://twitter.com/Lixxia
+    external:     true
   - name:         LinkedIn
     icon:         fa-linkedin
     url:          http://linkedin.com/in/lixxia

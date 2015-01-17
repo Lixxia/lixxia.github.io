@@ -7,11 +7,9 @@ title: About
 <p>
 I am currently a Senior at the College of Charleston studying for a Bachelor of Science in Computer Science. I am focused on improving my own skills as a programmer while helping expand Charleston's technical community through volunteer work in events such as BarcampCHS and Pecha Kucha.
 
-Tweet [@lixxias](http://twitter.com/lixxias).
+Tweet [@lixxia](http://twitter.com/lixxia).
 
-Code can be found on [GitHub](http://github.com/Lixxia).
-
-My resume can be found on [LinkedIn](http://linkedin.com/in/lixxia).
+My code can be found on [GitHub](http://github.com/Lixxia) and my resume can be found on [LinkedIn](http://linkedin.com/in/lixxia).
 
 ---
 
