@@ -1,5 +1,5 @@
 .licon {;
-  margin: -10px 0px -10px 0px;
+  margin: -15px 0px -10px 0px;
   padding: 0px;
 }
 
@@ -7,7 +7,7 @@ div.ltext {
   z-index:0;
   position: relative;
   margin-top: 0px;
-  top: 5px;  
+  top: 0px;  
   padding: 0px;
   color: #000;
   font-family:'PT Sans Narrow', sans-serif;
@@ -199,13 +199,15 @@ footer {
       border-bottom: 0; }
     #container .block a.main {
       display: inline-block;
-      vertical-align: baseline;
+      vertical-align: middle;
       zoom: 1;
+      min-width:50px;
+      max-width:50px;
       *display: inline;
       *vertical-align: auto;
-      padding: 2px 2px;
-      margin-right: 12px;
-      margin-bottom: 6px; }
+      padding: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px; }
       #container .block a.main:last-of-type {
         margin-right: 0; }
     #container .block .button {
