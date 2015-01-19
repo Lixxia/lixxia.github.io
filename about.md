@@ -13,7 +13,9 @@ My code can be found on [GitHub](http://github.com/Lixxia) and my resume can be 
 
 ---
 
-<a href="http://github.com/muan/scribble" class="muted">Blog built with Jekyll using Scribble theme.</a>
+<a href="http://jekyllrb.com/" class="muted">Blog built with Jekyll.</a>
+<br>
+<a href="http://github.com/muan/scribble" class="muted">Theme based on Scribble.</a>
 </center>
 
 
