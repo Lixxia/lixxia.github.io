@@ -3,6 +3,29 @@ layout: post
 title: My H/FOSS Preferences
 date: 2015-01-19 1:23AM
 ---
+# Software Development - Preface & Chapter 1
+
+The book seems rather spot on in its summary of FOSS. It makes all the key points about the outdatedness of the previously used "Software Lifecycle" and the advantages of using the open source model. I also found that the comparison between community-oriented and client-oriented was interesting. 
+
+In chapter one there was an emphasis on software, it's importance and it's increasing focus. This of course, makes sense as it *is* a book focused on *software* development, but it brought to mind the thought that hardware is falling into the background. Development of hardware is not slowing, but I see it as something that is starting to be taken for granted. 
+
+The rest of the chapter's analysis of the benefits of FOSS is pretty spot on. Most of the benefits are argued amongst free and proprietary communities, but for the most part there is an accurate synopsis. Some of the statements, to me, appeared to be sweeping generalizations that I don't completely agree with. Those statements are broken down below.
+
+>"proprietary software developers have limited appetites for developing open source applications."
+
+This is changing with the growth of the Open Source movement. Just because a company develops proprietary software doesn't mean they will never participate or develop open source applications or products. Take for example Microsoft. They've recently released their .NET framework as completely open source and hosted it on github. It's a largely political move, something to improve their image I'm sure, but that doesn't change the fact that they have stepped into the open source movement. 
+
+>"A FOSS system is relatively unencumbered by licensing restrictions that would complicate or limit its reuse or redeployment."
+
+Another point I disagree with. It's true that *once chosen* the license will generally stay the same and allow for free use and redistribution of code. However choosing the license for a FOSS project is generally regarded as a drawback given that there are many to choose from. Additionally, an open source project/community will not always have someone fluent in legalese available to translate the meanings behind these licenses. 
+
+>"FOSS serves a global public good that can be shared internationally."
+
+This statement is way too general for my tastes. While it's true that there are FOSS projects focused on providing aid to areas in which it is needed, not all FOSS are serving a global public good, and these projects are not always shared internationally. Though I will admit the potential is there. 
+
+---
+
+# OS Project Choices 
 
 I generally keep track of the new and popular open-source projects. All of my choices were selected from my list of starred projects on Github. They are listed in order of preference.
 
