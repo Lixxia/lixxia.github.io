@@ -11,15 +11,15 @@ In chapter one there was an emphasis on software, it's importance and it's incre
 
 The rest of the chapter's analysis of the benefits of FOSS is pretty spot on. Most of the benefits are argued amongst free and proprietary communities, but for the most part there is an accurate synopsis. Some of the statements, to me, appeared to be sweeping generalizations that I don't completely agree with. Those statements are broken down below.
 
->"proprietary software developers have limited appetites for developing open source applications."
+>Proprietary software developers have limited appetites for developing open source applications.
 
 This is changing with the growth of the Open Source movement. Just because a company develops proprietary software doesn't mean they will never participate or develop open source applications or products. Take for example Microsoft. They've recently released their .NET framework as completely open source and hosted it on github. It's a largely political move, something to improve their image I'm sure, but that doesn't change the fact that they have stepped into the open source movement. 
 
->"A FOSS system is relatively unencumbered by licensing restrictions that would complicate or limit its reuse or redeployment."
+>A FOSS system is relatively unencumbered by licensing restrictions that would complicate or limit its reuse or redeployment.
 
 Another point I disagree with. It's true that *once chosen* the license will generally stay the same and allow for free use and redistribution of code. However choosing the license for a FOSS project is generally regarded as a drawback given that there are many to choose from. Additionally, an open source project/community will not always have someone fluent in legalese available to translate the meanings behind these licenses. 
 
->"FOSS serves a global public good that can be shared internationally."
+>FOSS serves a global public good that can be shared internationally.
 
 This statement is way too general for my tastes. While it's true that there are FOSS projects focused on providing aid to areas in which it is needed, not all FOSS are serving a global public good, and these projects are not always shared internationally. Though I will admit the potential is there. 
 
