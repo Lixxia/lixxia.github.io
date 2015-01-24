@@ -140,7 +140,8 @@ h1, h2, h3, h4, h5, strong, b {
   font-weight: 600;
   outline: 0px none;
   line-height: 50px;
-  color: #333;
+  /*color: #333;*/
+  color: #d64937;
 }
 
 html, body {
@@ -300,7 +301,7 @@ footer {
 
 a, .as-link {
   text-decoration: none;
-  color: #2EA2CC;
+  color: #d64937;
   line-height: 1.4em;
   display: inline-block;
   vertical-align: baseline;
