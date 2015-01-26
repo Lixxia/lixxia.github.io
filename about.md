@@ -9,7 +9,7 @@ I am currently a Senior at the College of Charleston studying for a Bachelor of 
 
 Tweet [@lixxia](http://twitter.com/lixxia).
 
-<div><a href="/images/cv.pdf" target="_blank" class="big-button red inline"><i class="fa fa-file-text"></i>  Resume</a> <a href="/feed.xml" target="_blank" class="big-button red inline"><i class="fa fa-rss"></i>  RSS Feed</a></div>
+<div><a href="/images/res.pdf" target="_blank" class="big-button red inline"><i class="fa fa-file-text"></i>  Resume</a> <a href="/feed.xml" target="_blank" class="big-button red inline"><i class="fa fa-rss"></i>  RSS Feed</a></div>
 
 ---
 
