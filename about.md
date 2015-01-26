@@ -9,13 +9,17 @@ I am currently a Senior at the College of Charleston studying for a Bachelor of 
 
 Tweet [@lixxia](http://twitter.com/lixxia).
 
-My code can be found on [GitHub](http://github.com/Lixxia) and my resume can be found on [LinkedIn](http://linkedin.com/in/lixxia).
+<div><a href="/images/cv.pdf" target="_blank" class="big-button red inline"><i class="fa fa-file-text"></i>  Resume</a> <a href="/feed.xml" target="_blank" class="big-button red inline"><i class="fa fa-rss"></i>  RSS Feed</a></div>
 
 ---
 
 <a href="http://jekyllrb.com/" class="muted">Blog built with Jekyll.</a>
 <br>
 <a href="http://github.com/muan/scribble" class="muted">Theme based on Scribble.</a>
+
+
 </center>
+
+
 
 
