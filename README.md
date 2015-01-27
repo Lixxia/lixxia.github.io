@@ -1,7 +1,9 @@
 BLOG
 ====
 
-A jekyll blog, currently only used for my software engineering course at College of Charleston.
+Blog built using [Jekyll](http://jekyllrb.com/).
+
+Currently used for my Software Engineering (CSCI462) course at College of Charleston.
 
 ---
 
