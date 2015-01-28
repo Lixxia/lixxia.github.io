@@ -6,11 +6,10 @@ jQuery(function() {
 });
 
 $(document).ready(function(){
-
-	// hide #back-top first
+	// Hide #back-top element
 	$("#back-top").hide();
 	
-	// fade in #back-top
+	// Show #back-top once reaching bottom
 	$(function () {
 		$(window).scroll(function () {
 			if ($(this).scrollTop() > 100) {
@@ -19,8 +18,7 @@ $(document).ready(function(){
 				$('#back-top').fadeOut();
 			}
 		});
-
-		// scroll body to 0px on click
+		// Scroll back to top on click
 		$('#back-top a').click(function () {
 			$('body,html').animate({
 				scrollTop: 0
