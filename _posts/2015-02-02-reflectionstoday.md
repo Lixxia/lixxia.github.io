@@ -6,7 +6,7 @@ date: 2015-02-02 11:39AM
 # Freeciv Exercise
 Pulling from the svn repository took quite some time, mostly while retrieving the graphical assets (there were a lot). 
 
-This was really the only "difficult" part. Everything else was fairly straightforward given the detailed walk-through in TOS. Before anything I read through the article to ensure I had most of the dependencies installed. Since I've messed around with C and C++, as well as installing code from source there wasn't much left for me to actually install. Most of the dependencies were already on my system. The few I needed were easily installed with a simple `apt-get`. 
+This was really the only "difficult" part. Everything else was fairly straightforward. There were some conflicting instructions but I didn't run into too much trouble. Since I've messed around with C and C++, as well as installing code from source there wasn't much left for me to actually install in terms of dependencies. Most of the dependencies were already on my system. The few I needed were easily installed with a simple `apt-get`. 
 
 Then I ran `./autogen.sh` and was ready to `make`. I almost ran `make install` by habit, but thankfully remembered that the article mentioned it was not necessary. 
 
