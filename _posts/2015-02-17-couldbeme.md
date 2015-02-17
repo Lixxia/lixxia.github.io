@@ -4,8 +4,7 @@ title: That could be me in x years!
 date: 2015-02-17 3:07PM
 ---
 
-# 9th Annual Alumni Symposium
-There was a great turnout this year compared to the last time I went (2 years ago). This can probably be attributed to us being required to go for Software Engineering, but I think it's great and students should be going regardless.
+Today was the 9th Annual Alumni Symposium. There was a great turnout this year compared to the last time I went (2 years ago). This can probably be attributed to us being required to go for Software Engineering, but I think it's great and students should be going regardless.
 
 The CS Alum panel this year had a good balance of very recent (last May) grads, and individuals who graduated over 10 years ago. I appreciated this balance, as the more...seasoned individuals brought something different to the table while the fresher graduates could relate to the students a bit easier.
 
