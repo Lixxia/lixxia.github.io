@@ -18,7 +18,7 @@ I chose an article from *Communications of the ACM, 6/2013 Vol. 56 No. 6*. It di
 
 This article drew my attention because Shafi Goldwasser was a keynote speaker at [GHC 2014](http://gracehopper.org/), which I had the pleasure of attending. Her keynote is still availible for view [here](http://new.livestream.com/anitaborginstitute/events/3444251/videos/64324972) (Introduction begins at 47:35 and her talk starts at 48:50). 
 
-She spoke of zero-knowledge proofs, giving a brief overview of what they were and how they were utilized. It was interesting because a lot of the audience was confused (to be fair, the talk was very technical/math oriented). The only reason I understood was because I took a Cryptography course at the University of Tartu where we covered zero-knowledge proofs. 
+She spoke of zero-knowledge proofs, giving a brief overview of what they were and how they were utilized. It was interesting because of its mathematical focus, even though a lot of the audience was confused. The only reason I understood was because I took a Cryptography course at the University of Tartu where we covered zero-knowledge proofs. 
 
 The article outlines the efforts of Goldwasser and Micali in the field of cryptography. How they developed a formal definition of security and worked on different secure encryption methods. Their work on interactive proofs which lead to the development of zero-knowledge proofs:
 
