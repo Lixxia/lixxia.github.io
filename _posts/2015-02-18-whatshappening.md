@@ -16,7 +16,7 @@ Again, easy to follow directions. It helps that I've worked with patches previou
 # Proofs Probable
 I chose an article from *Communications of the ACM, 6/2013 Vol. 56 No. 6*. It discuses Shafi Goldwasser's and Silvio Micali's efforts towards laying the foundations for modern cryptography with contributions regarding interactive and zero-knowledge proofs. 
 
-This article drew my attention because Shafi Goldwasser was a keynote speaker at [GHC 2014](http://gracehopper.org/), which I had the pleasure of attending. Her keynote is still availible for view [here](http://new.livestream.com/anitaborginstitute/events/3444251/videos/64324972) (Introduction begins at 47:35 and her talk starts at 48:50). 
+This article drew my attention because Shafi Goldwasser was a keynote speaker at [GHC 2014](http://gracehopper.org/), which I had the pleasure of attending. Her keynote is still available for view [here](http://new.livestream.com/anitaborginstitute/events/3444251/videos/64324972) (Introduction begins at 47:35 and her talk starts at 48:50). 
 
 She spoke of zero-knowledge proofs, giving a brief overview of what they were and how they were utilized. It was interesting because of its mathematical focus, even though a lot of the audience was confused. The only reason I understood was because I took a Cryptography course at the University of Tartu where we covered zero-knowledge proofs. 
 
@@ -24,7 +24,7 @@ The article outlines the efforts of Goldwasser and Micali in the field of crypto
 
 >... which allow the user to convince someone else of the correctness properties of a piece of information, without actually revealing what that information is.
 
-They also worked on the necessity of utilizing randomness in encryption, allowance for (a very small) probability of error. Their efforts laied the foundation for modern cryptography, which today, is more important than ever. 
+They also worked on the necessity of utilizing randomness in encryption, allowance for (a very small) probability of error. Their efforts laid the foundation for modern cryptography, which today, is more important than ever. 
 
 Both Goldwasser and Micali received the ACM Turing Award:
 
@@ -37,12 +37,12 @@ This is the same article we had to read for the previous semester, and my opinio
 There are certainly benefits to utilizing GPUs for processing. And if properly harnessed it's speed can be quite impressive. I still maintain that GPUs will not replace CPUs, but we will likely see more use of both, regardless of the need for actual graphical processing.
 
 ##Future of programming prediction No. 2: Databases will perform increasingly sophisticated analysis
-I absolutely agree with this one. The use of buzzwords, as stated in the article, such as "Big Data" are becoming increasingly popular and for good reason. Data mining is profitable. Companies like google with countless amounts of user data at there fingertips have figured out a way to utilize and profit off of that data. Algorithms that parse through the data and development of machine learning analytics are very popular right now and we will absolutely see an increased use of this technology in the future. Not only in the tech industry, but also in the government.  
+I absolutely agree with this one. The use of buzzwords, as stated in the article, such as "Big Data" are becoming increasingly popular and for good reason. Data mining is profitable. Companies like Google with countless amounts of user data at there fingertips have figured out a way to utilize and profit off of that data. Algorithms that parse through the data and development of machine learning analytics are very popular right now and we will absolutely see an increased use of this technology in the future. Not only in the tech industry, but also in the government.  
 
 ##Future of programming prediction No. 3: JavaScript for everything
 I'm not sure I agree with this one. On the one hand, JavaScript is indeed becoming more popular, especially with the related increase of web-based applications and app frameworks such as ionic. On the other hand this is always subject to change, and this is a powerful and broad prediction to make. Additionally there will always be a language that becomes popular and eventually falls into disuse because of the introduction of a new or more efficient language.
 
-There are some that would convince you that javascript is here to stay as the next big thing, especially if they're from the valley. 
+There are some that would convince you that JavaScript is here to stay as the next big thing, especially if they're from the valley. 
 
 ##Future of programming prediction No. 4: Android on every device
 For some of the same reasons stated above, I don't agree with this. Technology is evolving and this is too bold of an assumption. It appears to biased for me to actually agree with, not that I have any issue with Android. However, many developers *do* have a problem with Android, mostly regarding writing for it and dealing with it's API breaking versions. 
