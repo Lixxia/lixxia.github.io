@@ -52,5 +52,18 @@ would force scanning of files even if they've not been recently modified.
 
 Once we get the OSX documentation issue completed we'll likely focus our efforts as a group on this code, testing it and discussing our changes with the core developers.
 
+## Update (2/26)
+We've already got a [pull request](https://github.com/mopidy/mopidy/pull/1007) up for the above issue. We solved it by adding a `--force` argument and putting a simple boolean check to the `elif` so that `uris_to_update.add(track.uri)` will be called if the argument is present.
+
+{% highlight python %} 
+self.add_argument('--force',
+    action='store_true',dest='force',default=False,
+    help='Forces the scanner to re-scan all media files')
+{% endhighlight %}
+
+{% highlight python %} 
+elif mtime > track.last_modified or args.force:
+{% endhighlight %}
+
 # Interview
 Lastly we're still planning an interview with Jodal, the project creator. We've got a list of questions [here](http://still-pending.wikispaces.com/Interview+Planning) and are planning our interview for mid-march. 
