@@ -14,3 +14,5 @@ I still consider this great progress, as we're learning how best to communicate 
 In accordance with our timeline we want to begin work on our third issue by March 12, and have it completed by March 19. We've all been searching for another bug our enhancement, focusing more on code-based fixes now that we have a better feeling of the community and existing code base. 
 
 Additionally, I believe we should begin work on our poster for the SSM Poster Session as soon as possible. I've heard from classes in years past that the poster deadline really sneaks up on you, and I'd like to get the basics of the layout done now, so we can at least plug in the information later on. 
+
+And lastly we're working on getting everything set up so that we can record our interview.
