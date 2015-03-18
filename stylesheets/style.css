@@ -244,7 +244,7 @@ footer {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   width: 100%;
-  max-width: 600px;
+  max-width: 750px;
   background: #fff;
   margin: 40px auto 20px;
   border-radius: 7px;
@@ -295,7 +295,7 @@ footer {
   width: 100%;
   border-width: 0;
   border-style: solid;
-  padding: 10px 60px;
+  padding: 10px 40px;
   margin: auto; }
 
 a, .as-link {
@@ -399,12 +399,12 @@ ul.posts .datetime {
   text-align: right; }
 
 section.post {
-  margin: 0 -60px;
+  margin: 0 -40px;
   text-align: left;
   border-top: 0;
   padding: 0; }
   section.post > * {
-    padding: 0 60px; }
+    padding: 0 40px; }
   section.post ul ul, section.post ul ol, section.post ol ul, section.post ol ol {
     margin-left: 20px;
     padding: 0; }
@@ -521,6 +521,6 @@ img {
   left: 50%;
   font-size: 60px; }
 .paging .left {
-  margin-left: -340px; }
+  margin-left: -440px; }
 .paging .right {
-  margin-left: 320px; }
+  margin-left: 420px; }
