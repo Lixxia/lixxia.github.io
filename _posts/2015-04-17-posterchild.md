@@ -10,5 +10,5 @@ Generally I would say that the experience feels like a waste of time. Most of th
 
 It seems like the judges don't care about CS. I know that there were specific judges for specific fields, but were there any for Computer Science? There didn't seem to be a lot of transparency regarding judging, which could have been by design. 
 
-Perhaps we just weren't techincal enough with our approach, but it was a bit of a disheartening experience. Not that I went in with illusions of winning, I just wish there was a bit more interest. 
+Perhaps we just weren't technical enough with our approach, but it was a bit of a disheartening experience. Not that I went in with illusions of winning, I just wish there was a bit more interest. 
 

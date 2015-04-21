@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections on my Progess
+title: Reflections on my Progress
 date: 2015-02-25 12:53PM
 ---
 
